@@ -29,8 +29,8 @@ std::cout << "var<long> value: " << var.value<long>() << std::endl;
 
 # Resetting variant type
 ```C++
-    var.setValue<int>(5);
-    std::cout << "var<int> value: " << var.value<int>() << std::endl;
+ var.setValue<int>(5);
+std::cout << "var<int> value: " << var.value<int>() << std::endl;
 ```
 
 # Testing for equality
