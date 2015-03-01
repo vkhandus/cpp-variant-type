@@ -1,5 +1,6 @@
 # cpp-variant-type
 Simple, easy to use and non-effective template variant type.
+Based on this stackoverflow thread: http://stackoverflow.com/questions/5319216/implementing-a-variant-class
 
 # Simple usage -> allow compiler to detect type implicitly
 ```C++
